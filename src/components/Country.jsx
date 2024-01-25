@@ -1,10 +1,18 @@
 import React, { Component} from "react";
 
 class Country extends Component {
-    state = {  }
+    state = { 
+        name: 'United States',
+        gold: 0,
+     }
 
     render () {
-        return ( <div>Hello Country!</div>)
+        return ( 
+            <div>
+                {  this.state.name }
+                {  this.state.gold }
+            </div>    
+        )
     }
 }
 export default Country
