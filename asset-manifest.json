@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/olympic-medals/static/css/main.6c79ca95.css",
+    "main.js": "/github.io/olympic-medals/static/js/main.107a1263.js",
+    "static/js/787.74063d51.chunk.js": "/github.io/olympic-medals/static/js/787.74063d51.chunk.js",
+    "index.html": "/github.io/olympic-medals/index.html",
+    "main.6c79ca95.css.map": "/github.io/olympic-medals/static/css/main.6c79ca95.css.map",
+    "main.107a1263.js.map": "/github.io/olympic-medals/static/js/main.107a1263.js.map",
+    "787.74063d51.chunk.js.map": "/github.io/olympic-medals/static/js/787.74063d51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c79ca95.css",
+    "static/js/main.107a1263.js"
+  ]
+}
