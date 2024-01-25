@@ -8,9 +8,14 @@ class Country extends Component {
 
     render () {
         return ( 
-            <div>
-                {  this.state.name }
-                {  this.state.gold }
+            <div className="container-fluid">
+                <div className="name">
+                    {  this.state.name }
+                </div>
+                <div className="gold">
+                    Gold medals:  {  this.state.gold }
+                </div>
+                
             </div>    
         )
     }
